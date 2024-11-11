@@ -2,8 +2,8 @@
 ## 概要
 令和6年能登半島地震に伴い中小機構の助成により整備中の産業用仮設施設について、中小機構のウェブサイト等の情報をもとに、現地調査等により一部修正して、GISデータ化したデータ（GeoJSON形式）を公開しています。  
 以下のリンクより、データにアクセス可能です。  
-- GeoJSON形式  
-
+- GeoJSON形式 
+[https://github.com/a-masumura/R06-Noto-Peninsula-EQ-temporary-facility-for-business/raw/main/令和6年能登半島地震_産業用仮設施設.geojson](https://raw.githubusercontent.com/a-masumura/R06-Noto-Peninsula-EQ-temporary-facility-for-business/main/%E4%BB%A4%E5%92%8C6%E5%B9%B4%E8%83%BD%E7%99%BB%E5%8D%8A%E5%B3%B6%E5%9C%B0%E9%9C%87_%E7%94%A3%E6%A5%AD%E7%94%A8%E4%BB%AE%E8%A8%AD%E6%96%BD%E8%A8%AD.geojson)
 - Google スプレッドシートへのリンク  
 
 ## 更新情報
