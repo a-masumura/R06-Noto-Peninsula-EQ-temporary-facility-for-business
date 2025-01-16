@@ -8,6 +8,8 @@
 https://docs.google.com/spreadsheets/d/1plrBhOUwE550-q0AkajTni-eTsPfjLpoJLNE7J1p3Ak/edit?usp=sharing
 
 ## 更新情報
+- 2025/1/16
+  - 中小機構のウェブページ「[仮設施設整備への助成](https://www.smrj.go.jp/reconstruction/noto_peninsula_20240101/support/temporary/index.html)」の情報（2025/1/10現在の情報）に基づきデータを作成し公開しました。
 - 2024/12/5
   - 中小機構のウェブページ「[仮設施設整備への助成](https://www.smrj.go.jp/reconstruction/noto_peninsula_20240101/support/temporary/index.html)」の情報（2024/11/28現在の情報）に基づきデータを作成し公開しました。データ列を見直しました。
 - 2024/11/11
